@@ -1,0 +1,22 @@
+# --- Frontend (React + Vite or CRA) ---
+eshop-frontend/node_modules/
+eshop-frontend/dist/
+eshop-frontend/build/
+eshop-frontend/.env*
+eshop-frontend/npm-debug.log*
+
+# --- Backend (.NET) ---
+eshop-backend/bin/
+eshop-backend/obj/
+eshop-backend/*.dbmdl
+eshop-backend/*.user
+eshop-backend/*.suo
+eshop-backend/*.bak
+eshop-backend/*.mdf
+eshop-backend/*.log
+
+# --- IDE/Editor/OS ---
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
